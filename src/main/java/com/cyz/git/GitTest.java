@@ -22,6 +22,7 @@ public class GitTest {
         System.out.println("github");
         System.out.println("github");
         System.out.println("github2");
+        System.out.println("远程库");
 
     }
 }

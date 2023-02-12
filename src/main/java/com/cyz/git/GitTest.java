@@ -7,6 +7,11 @@ package com.cyz.git;
  **/
 public class GitTest {
     public static void main(String[] args) {
+        System.out.println("hostfix2 git4");
+        System.out.println("hostfix2 git4");
+        System.out.println("hostfix2 git4");
+        System.out.println("hostfix2 git4");
+        System.out.println("hostfix2 git4");
         System.out.println("master git1");
         System.out.println("master git1");
         System.out.println("master git1");

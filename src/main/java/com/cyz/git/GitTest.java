@@ -17,6 +17,11 @@ public class GitTest {
         System.out.println("master git1");
         System.out.println("master git1");
         System.out.println("master git1");
-
+        System.out.println("gitee");
+        System.out.println("gitee");
+        System.out.println("gitee");
+        System.out.println("gitee");
+        System.out.println("gitee");
+        System.out.println("gitee");
     }
 }
